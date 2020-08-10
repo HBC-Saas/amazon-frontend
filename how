@@ -1,0 +1,29 @@
+[33mcommit 4b2bc93fb0c432f2d406281718b8a1a39185e109[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mAZ/staging[m[33m, [m[1;31mAZ/master[m[33m, [m[1;31mAZ/bugfix[m[33m, [m[1;32mstaging[m[33m, [m[1;32mbugfix[m[33m)[m
+Author: achuchekwi <achuchekwi@gmail.com>
+Date:   Fri Aug 7 21:18:05 2020 -0400
+
+    git ignore added
+
+[33mcommit afca3fe83c07287922a78563dcacc947fd239239[m[33m ([m[1;32mdevelopment[m[33m)[m
+Author: achuchekwi <achuchekwi@gmail.com>
+Date:   Fri Aug 7 18:26:45 2020 -0400
+
+    New file added
+
+[33mcommit e6f7cb5d6923887cd82e21f47948ccbf713b2b2f[m
+Author: achuchekwi <achuchekwi@gmail.com>
+Date:   Fri Aug 7 18:24:18 2020 -0400
+
+    1st deployment successful
+
+[33mcommit 0a6c0a544d19b82da8276d24c77640ff5df76e1c[m
+Author: achuchekwi <achuchekwi@gmail.com>
+Date:   Fri Aug 7 18:04:48 2020 -0400
+
+    python file addes to the aws project
+
+[33mcommit 5a58505e42a8eaf8c2646eb361613d3a03ed764b[m
+Author: achuchekwi <achuchekwi@gmail.com>
+Date:   Fri Aug 7 17:41:07 2020 -0400
+
+    first commit for aws
